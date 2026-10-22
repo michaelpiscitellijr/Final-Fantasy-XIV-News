@@ -17,7 +17,6 @@ UA = "Mozilla/5.0 (ffxiv-news-webhook)"
 GENERIC_IMAGE_ID = "nxpYJrU9cbhAORBcM9FbZgG2rs"  # Lodestone's default site image
 
 FEEDS = {
-    "News": "https://na.finalfantasyxiv.com/lodestone/news/news.xml",
     "Topics": "https://na.finalfantasyxiv.com/lodestone/news/topics.xml",
 }
 
